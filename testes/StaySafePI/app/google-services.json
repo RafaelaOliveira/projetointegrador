@@ -1,0 +1,97 @@
+
+{
+  "project_info": {
+    "project_number": "419783530944",
+    "firebase_url": "https://gps-application-2e000.firebaseio.com",
+    "project_id": "gps-application-2e000",
+    "storage_bucket": "gps-application-2e000.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419783530944:android:b1127ad63949ffa1",
+        "android_client_info": {
+          "package_name": "staysafepi.staysafepi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419783530944-rg2e7ttpq5ussos192snpkf3l3v2sdjt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlWp-hgN0GK_4Nv9DJDvaNX7Gp4WHJGRw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1",
+
+  "project_info": {
+    "project_number": "719749282213",
+    "firebase_url": "https://projetostaysafe-c6697.firebaseio.com",
+    "project_id": "projetostaysafe-c6697",
+    "storage_bucket": "projetostaysafe-c6697.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719749282213:android:b1127ad63949ffa1",
+        "android_client_info": {
+          "package_name": "staysafepi.staysafepi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719749282213-q365i29dqbg7dbcp93kmuc0pkq3gnc9o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "staysafepi.staysafepi",
+            "certificate_hash": "720109f1c7dd635bcece20b32dc938ebde48d056"
+          }
+        },
+        {
+          "client_id": "719749282213-mjvsn0tb81om4r4l6gdjl2qt0kurivst.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJN0hTd_dErUQx5xjG3aCTJWP9pZdS_mM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719749282213-mjvsn0tb81om4r4l6gdjl2qt0kurivst.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"}
+
